@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Davi Gamarano Neves Rocha
+Matricula: 902643
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela de Inspeção](images/Tela_de_inspeção.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Tela de Projeto](images/Tela_de_projeto.png)
 
 
 ## Orientações sobre Linguagem MarkDown
